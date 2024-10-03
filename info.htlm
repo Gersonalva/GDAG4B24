@@ -1,0 +1,16 @@
+<html>
+<head><litle>informacion
+personal</litle></head>
+<body bgColor="Blue">
+<H1>Informacion Personal<h1><br>
+Nombre:Gerson David <br>
+Apellidos:Alvarado Garcia<br>
+Grado:4to Bach en compu  Seccion:B<br>
+Fecha de Nacimiento: 25/11/2007
+Estudios Realizados: <br>
+Primaria:Escuela Rural Mixta Marianita<br>
+Basicos:Instituto Profesional de Computacion<br>
+Carrera:Instituto Profesional de Computacion<br>
+<img src="yo.jpg">
+</body>
+</html>
